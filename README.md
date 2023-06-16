@@ -6,3 +6,7 @@ Volunteers are numbered S1 to S14 as the naming convention of corresponding dire
 36 characteres of consonant and 13 vowel gestures have been considered.
 Different liting conditions like dark, Bright, prepared i.e Indoor and Unprepared- real world environment are considered
 Some video comprises of all character performed in a single video and remaining has one video for each character labelled as its pronounced.
+
+**Full Data set can be accessed in the below link**
+
+https://livemailsmuedu-my.sharepoint.com/:f:/g/personal/jhuma_s_smit_smu_edu_in/El-eCFHnhstLhCvIWHQnFPcBPnjEyo8iSFKwTT5WEn02DQ?e=WiAUlh
